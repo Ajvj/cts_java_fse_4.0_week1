@@ -1,0 +1,11 @@
+.center-content {
+  display: flex;
+  justify-content: center;  /* centers horizontally */
+  align-items: center;      /* centers vertically */
+  height: 100vh;            /* full viewport height */
+  background: #fff;         /* optional: white background */
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+}
