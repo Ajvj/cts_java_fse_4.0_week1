@@ -1,0 +1,20 @@
+From f95e5fdcd5685887c018264019d61b1d90cc0e7e Mon Sep 17 00:00:00 2001
+From: Ajvj <vkajaysrisai@gmail.com>
+Date: Mon, 11 Aug 2025 21:15:15 +0530
+Subject: [PATCH] Add demo.txt
+
+---
+ demo.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 demo.txt
+
+diff --git a/demo.txt b/demo.txt
+new file mode 100644
+index 0000000..ce01362
+--- /dev/null
++++ b/demo.txt
+@@ -0,0 +1 @@
++hello
+-- 
+GitLab
+
